@@ -1,0 +1,114 @@
+﻿Timestamp,State,StatName,Location,Duration
+15:20:01.805,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (72),
+15:21:33.021,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (72),912.14
+15:21:33.037,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab,
+15:21:46.503,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab,134.66
+15:21:46.693,Start,AIStat_Hunger,Lunch (1),
+15:22:00.552,End,AIStat_Hunger,Lunch (1),138.59
+15:22:00.741,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (2),
+15:22:02.860,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (2),21.20
+15:22:42.044,Start,AIStat_Energy,椅子-Corbu (3),
+15:22:51.306,End,AIStat_Energy,椅子-Corbu (3),92.63
+15:22:51.495,Start,AIStat_Hunger,Lunch,
+15:23:04.624,End,AIStat_Hunger,Lunch,131.29
+15:23:04.823,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+15:23:18.245,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),134.25
+15:23:18.438,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (27),
+15:40:01.481,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (27),10030.46
+15:40:01.672,Start,AIStat_Energy,椅子-Corbu (17),
+15:40:55.928,End,AIStat_Energy,椅子-Corbu (17),542.54
+15:40:56.122,Start,AIStat_Hunger,Lunch (2),
+15:41:09.068,End,AIStat_Hunger,Lunch (2),129.47
+15:41:09.265,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),
+15:41:24.006,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),147.42
+15:41:24.194,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),
+15:41:26.774,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),25.78
+15:41:26.976,Start,AIStat_Hunger,Lunch (20),
+15:41:40.300,End,AIStat_Hunger,Lunch (20),133.25
+15:41:40.490,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),
+15:41:55.504,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),150.12
+15:41:55.702,Start,AIStat_Energy,椅子-Corbu (16),
+15:42:48.847,End,AIStat_Energy,椅子-Corbu (16),531.46
+15:42:49.047,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+15:43:02.210,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),131.60
+15:43:02.404,Start,AIStat_Hunger,Lunch (22),
+15:43:15.663,End,AIStat_Hunger,Lunch (22),132.58
+15:43:15.855,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+15:43:30.032,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),141.77
+15:43:30.220,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),
+15:43:32.547,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),23.29
+15:43:32.753,Start,AIStat_Hunger,Lunch (9),
+15:43:45.630,End,AIStat_Hunger,Lunch (9),128.76
+15:43:45.820,Start,AIStat_Energy,椅子-Corbu (18),
+15:44:42.688,End,AIStat_Energy,椅子-Corbu (18),568.69
+15:44:42.875,Start,AIStat_Hunger,Lunch (21),
+15:44:56.196,End,AIStat_Hunger,Lunch (21),133.21
+15:44:56.395,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+15:45:09.196,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),128.00
+15:45:09.394,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),
+15:45:11.536,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),21.42
+15:45:11.828,Start,AIStat_Hunger,Lunch (4),
+15:45:24.505,End,AIStat_Hunger,Lunch (4),127.01
+15:45:24.704,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2,
+15:45:42.891,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2,181.87
+15:45:43.081,Start,AIStat_Hunger,Lunch,
+15:45:57.232,End,AIStat_Hunger,Lunch,141.52
+15:45:57.428,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2,
+15:46:10.753,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2,133.22
+15:46:10.949,Start,AIStat_Hunger,Lunch (4),
+15:46:25.034,End,AIStat_Hunger,Lunch (4),140.85
+15:46:25.230,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),
+15:46:28.078,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),28.49
+15:46:28.284,Start,AIStat_Energy,椅子-Corbu (14),
+15:47:18.838,End,AIStat_Energy,椅子-Corbu (14),505.53
+15:47:19.035,Start,AIStat_Hunger,Lunch,
+15:47:31.592,End,AIStat_Hunger,Lunch,125.57
+15:47:31.785,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),
+15:47:34.097,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),23.10
+15:47:34.299,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (4),
+15:47:46.485,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (4),121.88
+15:47:46.677,Start,AIStat_Hunger,Lunch,
+15:48:00.526,End,AIStat_Hunger,Lunch,138.48
+15:48:00.725,Start,AIStat_Energy,椅子-Corbu (7),
+15:48:08.999,End,AIStat_Energy,椅子-Corbu (7),82.75
+15:48:09.192,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (2),
+15:48:22.028,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (2),128.35
+15:48:22.219,Start,AIStat_Hunger,Lunch (13),
+15:48:36.304,End,AIStat_Hunger,Lunch (13),140.87
+15:48:36.503,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),
+15:48:52.803,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),162.98
+15:48:52.994,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (2),
+15:48:55.047,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (2),20.53
+15:48:55.253,Start,AIStat_Hunger,Lunch (4),
+15:49:08.197,End,AIStat_Hunger,Lunch (4),129.43
+15:49:08.385,Start,AIStat_Energy,椅子-Corbu (7),
+15:49:18.086,End,AIStat_Energy,椅子-Corbu (7),97.00
+15:49:18.280,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),
+15:49:31.155,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),128.74
+15:49:31.353,Start,AIStat_Hunger,Lunch (22),
+15:49:45.028,End,AIStat_Hunger,Lunch (22),136.75
+15:49:45.218,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),
+15:49:59.126,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),139.07
+15:49:59.324,Start,AIStat_Hunger,Lunch,
+15:50:12.109,End,AIStat_Hunger,Lunch,127.86
+15:50:12.301,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+15:50:25.643,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),133.42
+15:50:25.840,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (2),
+15:50:27.683,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (2),18.43
+15:50:27.884,Start,AIStat_Hunger,Lunch (22),
+15:50:39.561,End,AIStat_Hunger,Lunch (22),116.76
+15:50:39.755,Start,AIStat_Energy,椅子-Corbu (7),
+15:50:47.564,End,AIStat_Energy,椅子-Corbu (7),78.09
+15:50:47.763,Start,AIStat_Hunger,Lunch (12),
+15:51:03.151,End,AIStat_Hunger,Lunch (12),153.88
+15:51:03.345,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef,
+15:51:08.200,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef,48.55
+15:51:08.404,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),
+15:51:20.698,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),122.96
+15:51:20.898,Start,AIStat_Hunger,Lunch,
+15:51:33.617,End,AIStat_Hunger,Lunch,127.21
+15:51:33.810,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),
+15:51:46.574,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),127.65
+15:51:46.770,Start,AIStat_Hunger,Lunch (20),
+15:52:00.253,End,AIStat_Hunger,Lunch (20),134.82
+15:52:00.447,Start,AIStat_Energy,椅子-Corbu (16),

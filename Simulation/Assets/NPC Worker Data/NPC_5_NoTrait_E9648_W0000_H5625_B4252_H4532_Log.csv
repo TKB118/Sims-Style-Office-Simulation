@@ -1,0 +1,30 @@
+﻿Timestamp,State,StatName,Location,Duration
+14:37:44.982,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (42),
+14:40:01.049,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (42),1360.62
+14:40:01.238,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (91),
+14:40:20.986,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (91),197.50
+14:40:21.181,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (91),
+14:40:44.372,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (91),231.89
+14:40:44.575,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (91),
+14:41:00.474,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (91),159.01
+14:41:00.665,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),
+14:41:13.889,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (1),132.24
+14:41:14.076,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (87),
+14:41:25.360,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (87),112.83
+14:41:25.377,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+14:41:37.172,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),117.96
+14:41:37.363,Start,AIStat_Hunger,Lunch,
+14:41:51.470,End,AIStat_Hunger,Lunch,141.08
+14:41:51.661,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),
+14:42:06.721,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab (2),150.62
+14:42:06.919,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (46),
+14:58:49.044,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (46),10021.25
+14:58:49.237,Start,AIStat_Energy,椅子-Corbu (18),
+14:59:41.768,End,AIStat_Energy,椅子-Corbu (18),525.30
+14:59:41.968,Start,AIStat_Hunger,Lunch (2),
+14:59:55.581,End,AIStat_Hunger,Lunch (2),136.14
+14:59:55.779,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (4),
+15:00:10.300,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (4),145.21
+15:00:10.487,Start,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),
+15:00:13.113,End,AIStat_Hydrated,特殊設備 - 500 x 610 x 875mm -- 3973f108c8c03b6970fe3bbdc13086ef (1),26.25
+15:00:13.323,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (91),

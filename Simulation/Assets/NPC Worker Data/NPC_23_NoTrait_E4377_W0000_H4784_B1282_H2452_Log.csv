@@ -1,0 +1,20 @@
+﻿Timestamp,State,StatName,Location,Duration
+14:38:21.273,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (68),
+14:41:22.880,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (68),1816.03
+14:41:23.069,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (79),
+14:41:32.382,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (79),93.14
+14:41:32.574,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (64),
+14:41:53.137,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (64),205.63
+14:41:53.151,Start,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab,
+14:42:06.801,End,AIStat_Bladder,衛生器具 - 象牙色 -- 96fd958814cef15566007b16de22b5ab,136.50
+14:42:07.001,Start,AIStat_Hunger,Lunch (1),
+14:42:20.439,End,AIStat_Hunger,Lunch (1),134.37
+14:42:20.633,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (2),
+14:42:34.083,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (2),134.51
+14:42:34.278,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (28),
+14:59:17.047,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (28),10027.67
+14:59:17.234,Start,AIStat_Energy,椅子-Corbu (14),
+15:00:13.582,End,AIStat_Energy,椅子-Corbu (14),563.48
+15:00:13.769,Start,AIStat_Hunger,Lunch,
+15:00:26.427,End,AIStat_Hunger,Lunch,126.59
+15:00:26.621,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (79),

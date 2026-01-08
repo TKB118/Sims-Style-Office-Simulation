@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1821899358463722047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8647101594582346444}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8647101594582346444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1821899358463722047}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.053800583, y: 0.91499996, z: -0.704}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7417830304684481789}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5462341512626772639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7417830304684481789}
+  - component: {fileID: 2598615658343215965}
+  - component: {fileID: 9083674913160739314}
+  - component: {fileID: 8366692719128648979}
+  - component: {fileID: 6098955379244297910}
+  - component: {fileID: 1752443141123579491}
+  - component: {fileID: 1768787480633506916}
+  - component: {fileID: -8201208374394926138}
+  - component: {fileID: 2031356750300408249}
+  - component: {fileID: 3134382378531602883}
+  - component: {fileID: 596764779659513841}
+  m_Layer: 0
+  m_Name: "\u51B7\u8535\u5EAB"
+  m_TagString: Hunger
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7417830304684481789
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -36.4162, y: 0.5, z: -3.8139763}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8647101594582346444}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &2598615658343215965
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Mesh: {fileID: 4300000, guid: 247429add316f694993eb503a84ee708, type: 2}
+--- !u!23 &9083674913160739314
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 5f4701947d6af8043a45eca9656bf696, type: 2}
+  - {fileID: 2100000, guid: 423d1e5e4683062438a44c4e4cd4a216, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &8366692719128648979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb1817d5a3fda645aa9b1b658ad3003, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _serializedData: "{\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Speckle.ConnectorUnity.Wrappers.SpeckleProperties+SpeckleData\",\"elementId\":\"285173\",\"level\":{\"createView\":true,\"parameters\":{\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Base\",\"DATUM_TEXT\":{\"name\":\"\u540D\u524D\",\"value\":\"\u30EC\u30D9\u30EB
+    1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"DATUM_TEXT\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"69875de94248d31241765b8619cbfa8d\"},\"DATUM_VOLUME_OF_INTEREST\":{\"name\":\"\u30B9\u30B3\u30FC\u30D7
+    \u30DC\u30C3\u30AF\u30B9\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"DATUM_VOLUME_OF_INTEREST\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"6209cabb66af7ab3ac5d3d94c3ed079a\"},\"DESIGN_OPTION_ID\":{\"name\":\"\u30C7\u30B6\u30A4\u30F3
+    \u30AA\u30D7\u30B7\u30E7\u30F3\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"DESIGN_OPTION_ID\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"82d727124f0af1c1bc38fce3bfe5dc5a\"},\"ELEM_CATEGORY_PARAM\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2000240\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"520055aff81b32c4c9639048ab17c304\"},\"ELEM_CATEGORY_PARAM_MT\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2000240\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM_MT\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"2a56f33181009c2877c9eb6236c094a6\"},\"ELEM_FAMILY_AND_TYPE_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\u3068\u30BF\u30A4\u30D7\",\"value\":\"\u30EC\u30D9\u30EB\u8A18\u53F7\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_FAMILY_AND_TYPE_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"f331ecb3e75df19567a343a208fa7e57\"},\"ELEM_FAMILY_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\",\"value\":\"\u30EC\u30D9\u30EB\u8A18\u53F7\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_FAMILY_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"ab52f2a36a4ce7c8d316e11153ae8ab5\"},\"ELEM_TYPE_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7\",\"value\":\"\u30EC\u30D9\u30EB\u8A18\u53F7\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_TYPE_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"dedc0a318f8a3bf590f15bae38d7591a\"},\"IFC_EXPORT_ELEMENT\":{\"name\":\"IFC
+    \u306B\u66F8\u304D\u51FA\u3057\",\"value\":0,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a026f18ca865b102c6856b617694f262\"},\"IFC_GUID\":{\"name\":\"IfcGUID\",\"value\":\"3Zu5Bv0LOHrPC10026FoQQ\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_GUID\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"253f76685236e94d17544a66f6849bf6\"},\"LEVEL_ELEV\":{\"name\":\"\u9AD8\u3055\",\"value\":500.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:millimeters-1.0.1\",\"applicationInternalName\":\"LEVEL_ELEV\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"64363aa1c4459510abff515c7733bf68\"},\"LEVEL_IS_BUILDING_STORY\":{\"name\":\"\u5EFA\u7269\u306E\u968E\",\"value\":true,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"LEVEL_IS_BUILDING_STORY\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"c36fb2ed4507ab0f8442234982c1e607\"},\"LEVEL_IS_STRUCTURAL\":{\"name\":\"\u69CB\u9020\",\"value\":false,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"LEVEL_IS_STRUCTURAL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"00a224fc3ad8d6f7a6476a978dd33fdd\"},\"LEVEL_ROOM_COMPUTATION_HEIGHT\":{\"name\":\"\u7B97\u5B9A\u9AD8\u3055\",\"value\":0.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:millimeters-1.0.1\",\"applicationInternalName\":\"LEVEL_ROOM_COMPUTATION_HEIGHT\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"99ecae1c0d64ef17ec8a855f1e6ada09\"},\"LEVEL_UP_TO_LEVEL\":{\"name\":\"\u4E0A\u306E\u968E\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"LEVEL_UP_TO_LEVEL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cb33afdaf0beeea22892d495e6c5bf8d\"},\"SYMBOL_FAMILY_NAME_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_FAMILY_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"9e577d9bc29fd67c4399d3c95d1bc5ca\"},\"SYMBOL_ID_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7
+    ID\",\"value\":\"\u30EC\u30D9\u30EB\u8A18\u53F7\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_ID_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a968552f2e832377b05d74b661377b2d\"},\"SYMBOL_NAME_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cf4ca00782d8b9fe70aecb31219644c4\"},\"id\":\"f902fe538304d95394c9ef1dde7e7533\"},\"elementId\":\"311\",\"referenceOnly\":false,\"name\":\"\u30EC\u30D9\u30EB
+    1\",\"elevation\":500.00000000000006,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":\"e3e052f9-0156-11d5-9301-0000863f27ad-00000137\",\"speckle_type\":\"Objects.BuiltElements.Level:Objects.BuiltElements.Revit.RevitLevel\",\"isRevitLinkedModel\":false,\"revitLinkedModelPath\":\"C:\\\\Users\\\\IshidaLab_memory\\\\Documents\\\\test
+    project.rvt\",\"worksetId\":\"0\",\"category\":\"\u30EC\u30D9\u30EB\u7DDA\",\"builtInCategory\":\"OST_Levels\",\"materialQuantities\":[],\"id\":\"21c06346c192171ade0086bb2b45e701\"},\"revitLinkedModelPath\":\"C:\\\\Users\\\\IshidaLab_memory\\\\Documents\\\\test
+    project.rvt\",\"handFlipped\":false,\"builtInCategory\":\"OST_SpecialityEquipment\",\"materialQuantities\":[{\"material\":{\"materialCategory\":\"\u30E1\u30BF\u30EB\",\"materialClass\":\"\u30E1\u30BF\u30EB\",\"shininess\":128,\"smoothness\":50,\"transparency\":0,\"parameters\":{\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Base\",\"ALL_MODEL_COST\":{\"name\":\"\u4FA1\u683C\",\"value\":0.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:currency-1.0.0\",\"applicationInternalName\":\"ALL_MODEL_COST\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"\u0E3F\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"508b3c00d08f5615097dce228bfff015\"},\"ALL_MODEL_DESCRIPTION\":{\"name\":\"\u8AAC\u660E\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_DESCRIPTION\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"af271d0ebae9cf8e1ecd2eb047088252\"},\"ALL_MODEL_IMAGE\":{\"name\":\"\u30A4\u30E1\u30FC\u30B8\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_IMAGE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"3fc5423d526d1e9251174bb7e4c475ef\"},\"ALL_MODEL_INSTANCE_COMMENTS\":{\"name\":\"\u30B3\u30E1\u30F3\u30C8\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_INSTANCE_COMMENTS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cce283bfdcb442b143beb4b21fa7c232\"},\"ALL_MODEL_MANUFACTURER\":{\"name\":\"\u88FD\u9020\u5143\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MANUFACTURER\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"d8377b548ee11705069909d4d31eb017\"},\"ALL_MODEL_MARK\":{\"name\":\"\u30DE\u30FC\u30AF\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MARK\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"48a1f46f1d5a7f6415890cebd0184a22\"},\"ALL_MODEL_MODEL\":{\"name\":\"\u30E2\u30C7\u30EB\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MODEL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"5617185598e4eda21600cec4f5e967e1\"},\"ALL_MODEL_URL\":{\"name\":\"URL\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_URL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"6bc4103dfaced7e000e0cf70a83947f9\"},\"DESIGN_OPTION_ID\":{\"name\":\"\u30C7\u30B6\u30A4\u30F3
+    \u30AA\u30D7\u30B7\u30E7\u30F3\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"DESIGN_OPTION_ID\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"82d727124f0af1c1bc38fce3bfe5dc5a\"},\"ELEM_CATEGORY_PARAM\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2000700\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"dc532eb56725c79e0b7b9c5d7af49c48\"},\"ELEM_CATEGORY_PARAM_MT\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2000700\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM_MT\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"6d1de1074b702ca79411f5f5a8436618\"},\"IFC_EXPORT_ELEMENT\":{\"name\":\"IFC
+    \u306B\u66F8\u304D\u51FA\u3057\",\"value\":0,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a026f18ca865b102c6856b617694f262\"},\"IFC_EXPORT_ELEMENT_AS\":{\"name\":\"\u66F8\u304D\u51FA\u3057
+    IFC \u30AF\u30E9\u30B9\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT_AS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"892e42c31eb89d0d503d5708581323db\"},\"IFC_EXPORT_PREDEFINEDTYPE\":{\"name\":\"\u5B9A\u7FA9\u6E08\u307F
+    IFC \u30BF\u30A4\u30D7\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_PREDEFINEDTYPE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"69845dd1838b5b6f3a7a99bb287c079a\"},\"IFC_GUID\":{\"name\":\"IfcGUID\",\"value\":\"3lBPwpronAJvDTNalkkzed\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_GUID\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"47878a8a2e68eeed11dd2703391cbeb4\"},\"KEYNOTE_PARAM\":{\"name\":\"\u30AD\u30FC\u30CE\u30FC\u30C8\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"KEYNOTE_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"b3c309c6e3d302dca3048a91755b917d\"},\"MATERIAL_NAME\":{\"name\":\"\u540D\u524D\",\"value\":\"\u30E1\u30BF\u30EB-\u30B9\u30C6\u30F3\u30EC\u30B9\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_NAME\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"2d8c50146ba010df26520a3da649f466\"},\"MATERIAL_PARAM_COLOR\":{\"name\":\"\u8272\",\"value\":16250871,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_COLOR\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"d3e31e87a5d7b0a36f579a81a7277e66\"},\"MATERIAL_PARAM_GLOW\":{\"name\":\"\u30B0\u30ED\u30FC\",\"value\":false,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_GLOW\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"d10a04cd26b73a3df6636e0822e60656\"},\"MATERIAL_PARAM_SHININESS\":{\"name\":\"\u5149\u6CA2\",\"value\":128,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_SHININESS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"b09c175a9244f5b038fb3701cb516374\"},\"MATERIAL_PARAM_SMOOTHNESS\":{\"name\":\"\u30D5\u30E9\u30C3\u30C8\u3055\",\"value\":50,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_SMOOTHNESS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"7fe3ed1dfe522bbad785ca90ebec6b9d\"},\"MATERIAL_PARAM_TRANSPARENCY\":{\"name\":\"\u900F\u904E\u5EA6\",\"value\":0,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_TRANSPARENCY\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"95ed0357b8e877bafc1cb655344c3d8d\"},\"SYMBOL_FAMILY_NAME_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_FAMILY_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"9e577d9bc29fd67c4399d3c95d1bc5ca\"},\"SYMBOL_NAME_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cf4ca00782d8b9fe70aecb31219644c4\"},\"id\":\"b1f1ffe0290b93cecf0a813af40b3329\"},\"name\":\"\u30E1\u30BF\u30EB-\u30B9\u30C6\u30F3\u30EC\u30B9\",\"totalChildrenCount\":0,\"applicationId\":\"ef2d9eb3-d72c-4a4f-935d-5e4beebabf67-00016540\",\"speckle_type\":\"Objects.Other.Material:Objects.Other.Revit.RevitMaterial\",\"elementId\":\"91456\",\"units\":\"mm\",\"isRevitLinkedModel\":false,\"revitLinkedModelPath\":\"C:\\\\Users\\\\IshidaLab_memory\\\\Documents\\\\test
+    project.rvt\",\"worksetId\":\"0\",\"category\":\"\u30DE\u30C6\u30EA\u30A2\u30EB\",\"builtInCategory\":\"OST_Materials\",\"materialQuantities\":[],\"id\":\"a9b31d4b87fe7abe77f925b9aa8764bd\"},\"volume\":552050.83720133791,\"area\":13994.87860108482,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.Other.MaterialQuantity\",\"id\":\"08ba32f1e429f844497d39bca11558e2\"},{\"material\":{\"materialCategory\":\"\u30DA\u30A4\u30F3\u30C8\",\"materialClass\":\"\u30DA\u30A4\u30F3\u30C8\",\"shininess\":128,\"smoothness\":50,\"transparency\":0,\"parameters\":{\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Base\",\"ALL_MODEL_COST\":{\"name\":\"\u4FA1\u683C\",\"value\":0.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:currency-1.0.0\",\"applicationInternalName\":\"ALL_MODEL_COST\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"\u0E3F\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"508b3c00d08f5615097dce228bfff015\"},\"ALL_MODEL_DESCRIPTION\":{\"name\":\"\u8AAC\u660E\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_DESCRIPTION\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"af271d0ebae9cf8e1ecd2eb047088252\"},\"ALL_MODEL_IMAGE\":{\"name\":\"\u30A4\u30E1\u30FC\u30B8\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_IMAGE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"3fc5423d526d1e9251174bb7e4c475ef\"},\"ALL_MODEL_INSTANCE_COMMENTS\":{\"name\":\"\u30B3\u30E1\u30F3\u30C8\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_INSTANCE_COMMENTS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cce283bfdcb442b143beb4b21fa7c232\"},\"ALL_MODEL_MANUFACTURER\":{\"name\":\"\u88FD\u9020\u5143\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MANUFACTURER\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"d8377b548ee11705069909d4d31eb017\"},\"ALL_MODEL_MARK\":{\"name\":\"\u30DE\u30FC\u30AF\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MARK\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"48a1f46f1d5a7f6415890cebd0184a22\"},\"ALL_MODEL_MODEL\":{\"name\":\"\u30E2\u30C7\u30EB\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MODEL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"5617185598e4eda21600cec4f5e967e1\"},\"ALL_MODEL_URL\":{\"name\":\"URL\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_URL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"6bc4103dfaced7e000e0cf70a83947f9\"},\"DESIGN_OPTION_ID\":{\"name\":\"\u30C7\u30B6\u30A4\u30F3
+    \u30AA\u30D7\u30B7\u30E7\u30F3\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"DESIGN_OPTION_ID\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"82d727124f0af1c1bc38fce3bfe5dc5a\"},\"ELEM_CATEGORY_PARAM\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2000700\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"dc532eb56725c79e0b7b9c5d7af49c48\"},\"ELEM_CATEGORY_PARAM_MT\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2000700\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM_MT\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"6d1de1074b702ca79411f5f5a8436618\"},\"IFC_EXPORT_ELEMENT\":{\"name\":\"IFC
+    \u306B\u66F8\u304D\u51FA\u3057\",\"value\":0,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a026f18ca865b102c6856b617694f262\"},\"IFC_EXPORT_ELEMENT_AS\":{\"name\":\"\u66F8\u304D\u51FA\u3057
+    IFC \u30AF\u30E9\u30B9\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT_AS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"892e42c31eb89d0d503d5708581323db\"},\"IFC_EXPORT_PREDEFINEDTYPE\":{\"name\":\"\u5B9A\u7FA9\u6E08\u307F
+    IFC \u30BF\u30A4\u30D7\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_PREDEFINEDTYPE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"69845dd1838b5b6f3a7a99bb287c079a\"},\"IFC_GUID\":{\"name\":\"IfcGUID\",\"value\":\"3lBPwpronAJvDTNalkkzef\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_GUID\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"bb2fb29b76c8b1fcd5fe2eb3fbb6b219\"},\"KEYNOTE_PARAM\":{\"name\":\"\u30AD\u30FC\u30CE\u30FC\u30C8\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"KEYNOTE_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"b3c309c6e3d302dca3048a91755b917d\"},\"MATERIAL_NAME\":{\"name\":\"\u540D\u524D\",\"value\":\"\u5857\u88C5
+    - \u767D\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_NAME\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"12b53b18e94d39012c784f0f011bffcc\"},\"MATERIAL_PARAM_COLOR\":{\"name\":\"\u8272\",\"value\":16382457,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_COLOR\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"10451f39533c37e5955295940d52adc3\"},\"MATERIAL_PARAM_GLOW\":{\"name\":\"\u30B0\u30ED\u30FC\",\"value\":false,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_GLOW\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"d10a04cd26b73a3df6636e0822e60656\"},\"MATERIAL_PARAM_SHININESS\":{\"name\":\"\u5149\u6CA2\",\"value\":128,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_SHININESS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"b09c175a9244f5b038fb3701cb516374\"},\"MATERIAL_PARAM_SMOOTHNESS\":{\"name\":\"\u30D5\u30E9\u30C3\u30C8\u3055\",\"value\":50,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_SMOOTHNESS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"7fe3ed1dfe522bbad785ca90ebec6b9d\"},\"MATERIAL_PARAM_TRANSPARENCY\":{\"name\":\"\u900F\u904E\u5EA6\",\"value\":0,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"MATERIAL_PARAM_TRANSPARENCY\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"95ed0357b8e877bafc1cb655344c3d8d\"},\"SYMBOL_FAMILY_NAME_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_FAMILY_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"9e577d9bc29fd67c4399d3c95d1bc5ca\"},\"SYMBOL_NAME_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cf4ca00782d8b9fe70aecb31219644c4\"},\"id\":\"afaf9e85207ae8bdd0bee5d9f08d2bf6\"},\"name\":\"\u5857\u88C5
+    - \u767D\",\"totalChildrenCount\":0,\"applicationId\":\"ef2d9eb3-d72c-4a4f-935d-5e4beebabf67-0001654e\",\"speckle_type\":\"Objects.Other.Material:Objects.Other.Revit.RevitMaterial\",\"elementId\":\"91470\",\"units\":\"mm\",\"isRevitLinkedModel\":false,\"revitLinkedModelPath\":\"C:\\\\Users\\\\IshidaLab_memory\\\\Documents\\\\test
+    project.rvt\",\"worksetId\":\"0\",\"category\":\"\u30DE\u30C6\u30EA\u30A2\u30EB\",\"builtInCategory\":\"OST_Materials\",\"materialQuantities\":[],\"id\":\"09806a0d28e088e2c30ac5640a35b686\"},\"volume\":334544129.99599326,\"area\":2994687.279999977,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.Other.MaterialQuantity\",\"id\":\"f283f539eb1273cad595417a2896a916\"}],\"category\":\"\u7279\u6B8A\u8A2D\u5099\",\"parameters\":{\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Base\",\"ALL_MODEL_COST\":{\"name\":\"\u4FA1\u683C\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:currency-1.0.0\",\"applicationInternalName\":\"ALL_MODEL_COST\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"\u0E3F\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"74bf988a525143180c37474332f76c98\"},\"ALL_MODEL_DESCRIPTION\":{\"name\":\"\u8AAC\u660E\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_DESCRIPTION\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"af271d0ebae9cf8e1ecd2eb047088252\"},\"ALL_MODEL_IMAGE\":{\"name\":\"\u30A4\u30E1\u30FC\u30B8\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_IMAGE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"3fc5423d526d1e9251174bb7e4c475ef\"},\"ALL_MODEL_INSTANCE_COMMENTS\":{\"name\":\"\u30B3\u30E1\u30F3\u30C8\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_INSTANCE_COMMENTS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"1dfebc33d8a8fdf10f2f62ad8cedd575\"},\"ALL_MODEL_MANUFACTURER\":{\"name\":\"\u88FD\u9020\u5143\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MANUFACTURER\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"4ca990c0df1e856aff87597e91fbb373\"},\"ALL_MODEL_MARK\":{\"name\":\"\u30DE\u30FC\u30AF\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MARK\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"7dad5622fb70b263ccd69834601ea2ca\"},\"ALL_MODEL_MODEL\":{\"name\":\"\u30E2\u30C7\u30EB\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_MODEL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"7ab49b5b4f85c2826c7925da12879908\"},\"ALL_MODEL_TYPE_COMMENTS\":{\"name\":\"\u30B3\u30E1\u30F3\u30C8(\u30BF\u30A4\u30D7)\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_TYPE_COMMENTS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"0da25197e02c844daddc6dce8da79a4f\"},\"ALL_MODEL_TYPE_IMAGE\":{\"name\":\"\u30A4\u30E1\u30FC\u30B8(\u30BF\u30A4\u30D7)\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_TYPE_IMAGE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"1d759d4a4e492ea54d862fd119480da0\"},\"ALL_MODEL_URL\":{\"name\":\"URL\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ALL_MODEL_URL\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"8abe9322516ea72e715da245b4303d09\"},\"DESIGN_OPTION_ID\":{\"name\":\"\u30C7\u30B6\u30A4\u30F3
+    \u30AA\u30D7\u30B7\u30E7\u30F3\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"DESIGN_OPTION_ID\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"82d727124f0af1c1bc38fce3bfe5dc5a\"},\"ELEM_CATEGORY_PARAM\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2001350\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"abb3b0a5ba2a639b1d0d533ba5357ecf\"},\"ELEM_CATEGORY_PARAM_MT\":{\"name\":\"\u30AB\u30C6\u30B4\u30EA\",\"value\":\"-2001350\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_CATEGORY_PARAM_MT\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a113b425b117d3b57ee25586229fb0c2\"},\"ELEM_FAMILY_AND_TYPE_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\u3068\u30BF\u30A4\u30D7\",\"value\":\"600
+    x 660mm\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_FAMILY_AND_TYPE_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"db3435685c2b1473b2ff9fd60bd10332\"},\"ELEM_FAMILY_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\",\"value\":\"600
+    x 660mm\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_FAMILY_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"bb03e9103c303641395a92fb1f11a710\"},\"ELEM_TYPE_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7\",\"value\":\"600
+    x 660mm\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"ELEM_TYPE_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"6659f39b4902dc3633ddfbb6cff02415\"},\"FAMILY_FREEINST_DEFAULT_ELEVATION\":{\"name\":\"\u65E2\u5B9A\u306E\u9AD8\u3055\",\"value\":0.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:millimeters-1.0.1\",\"applicationInternalName\":\"FAMILY_FREEINST_DEFAULT_ELEVATION\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"b8daaf4efd2db7d6dccd4e437a0999df\"},\"FAMILY_LEVEL_PARAM\":{\"name\":\"\u57FA\u6E96\u30EC\u30D9\u30EB\",\"value\":\"\u30EC\u30D9\u30EB
+    1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"FAMILY_LEVEL_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"7beabd6c78a5fe304354624c220f3143\"},\"HOST_AREA_COMPUTED\":{\"name\":\"\u9762\u7A4D\",\"value\":5.0590654636709953,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:squareMeters-1.0.1\",\"applicationInternalName\":\"HOST_AREA_COMPUTED\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":\"m\xB2\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cebdbe3f2145e4efa074292fee26dd5e\"},\"HOST_ID_PARAM\":{\"name\":\"\u30DB\u30B9\u30C8
+    ID\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"HOST_ID_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"6ada06e047e73ff0eb0c370d6961662b\"},\"HOST_VOLUME_COMPUTED\":{\"name\":\"\u5BB9\u7A4D\",\"value\":0.33509618083319426,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:cubicMeters-1.0.1\",\"applicationInternalName\":\"HOST_VOLUME_COMPUTED\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":\"m\xB3\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"48ae02a7b46af371dba0a63009884c0d\"},\"IFC_EXPORT_ELEMENT\":{\"name\":\"IFC
+    \u306B\u66F8\u304D\u51FA\u3057\",\"value\":0,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a026f18ca865b102c6856b617694f262\"},\"IFC_EXPORT_ELEMENT_AS\":{\"name\":\"\u66F8\u304D\u51FA\u3057
+    IFC \u30AF\u30E9\u30B9\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT_AS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"892e42c31eb89d0d503d5708581323db\"},\"IFC_EXPORT_ELEMENT_TYPE\":{\"name\":\"IFC
+    \u306B\u66F8\u304D\u51FA\u3057(\u30BF\u30A4\u30D7)\",\"value\":0,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT_TYPE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"bf5919a298473c47d53d4d8105211e28\"},\"IFC_EXPORT_ELEMENT_TYPE_AS\":{\"name\":\"\u66F8\u304D\u51FA\u3057
+    IFC \u30AF\u30E9\u30B9(\u30BF\u30A4\u30D7)\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_ELEMENT_TYPE_AS\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"b6a1195ca59efc8a14b4e687621c2104\"},\"IFC_EXPORT_PREDEFINEDTYPE\":{\"name\":\"\u5B9A\u7FA9\u6E08\u307F
+    IFC \u30BF\u30A4\u30D7\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_PREDEFINEDTYPE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"69845dd1838b5b6f3a7a99bb287c079a\"},\"IFC_EXPORT_PREDEFINEDTYPE_TYPE\":{\"name\":\"\u5B9A\u7FA9\u6E08\u307F
+    IFC \u30BF\u30A4\u30D7(\u30BF\u30A4\u30D7)\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_EXPORT_PREDEFINEDTYPE_TYPE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"336257fe6b464deedd76e8d99edac95b\"},\"IFC_GUID\":{\"name\":\"IfcGUID\",\"value\":\"10APfDu_f6_BQeQJS8AqxI\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_GUID\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"78daefd798fc8e6f10f4655f71a4d1c2\"},\"IFC_TYPE_GUID\":{\"name\":\"\u30BF\u30A4\u30D7
+    IfcGUID\",\"value\":\"1DX5lGun1EPx3q5Hf2pCwg\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"IFC_TYPE_GUID\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"9d12fe3027fa2b6a518cb00f03430bc2\"},\"INSTANCE_FREE_HOST_PARAM\":{\"name\":\"\u30DB\u30B9\u30C8\",\"value\":\"\u5E8A
+    : \u4E00\u822C 150 mm\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"INSTANCE_FREE_HOST_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"8abcbfab23affd388605234dec999448\"},\"INSTANCE_OFFSET_POS_PARAM\":{\"name\":\"\u4ED8\u8FD1\u306E\u8981\u7D20\u3068\u3068\u3082\u306B\u79FB\u52D5\",\"value\":false,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"INSTANCE_OFFSET_POS_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"695045ae4f042ca0f3057186f4224e43\"},\"KEYNOTE_PARAM\":{\"name\":\"\u30AD\u30FC\u30CE\u30FC\u30C8\",\"value\":\"11180.I7\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"KEYNOTE_PARAM\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"3da7f35c1cd089d6a62ed1e76aeaf128\"},\"OMNICLASS_CODE\":{\"name\":\"OmniClass
+    \u756A\u53F7\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"OMNICLASS_CODE\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"15b5fe65475326a2d2851035fc766704\"},\"OMNICLASS_DESCRIPTION\":{\"name\":\"OmniClass
+    \u30BF\u30A4\u30C8\u30EB\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"OMNICLASS_DESCRIPTION\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"fce18c0f2b2c985d03287b934de76feb\"},\"PHASE_CREATED\":{\"name\":\"\u69CB\u7BC9\u30D5\u30A7\u30FC\u30BA\",\"value\":\"\u65B0\u3057\u3044\u5EFA\u8A2D\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"PHASE_CREATED\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"06ce69628589a35c16b11d87fcfeed20\"},\"PHASE_DEMOLISHED\":{\"name\":\"\u89E3\u4F53\u30D5\u30A7\u30FC\u30BA\",\"value\":\"-1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"PHASE_DEMOLISHED\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"5bb4a59a693b32c7fe3e4adfdc9f64fb\"},\"RBS_ELEC_CIRCUIT_NUMBER\":{\"name\":\"\u56DE\u8DEF\u756A\u53F7\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"RBS_ELEC_CIRCUIT_NUMBER\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a491ef500b8091a8a1c1894e7cf570b1\"},\"RBS_ELEC_CIRCUIT_PANEL_PARAM\":{\"name\":\"\u30D1\u30CD\u30EB\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"RBS_ELEC_CIRCUIT_PANEL_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"60660ea7d8caaff897d25bb1c7179faf\"},\"SCHEDULE_LEVEL_PARAM\":{\"name\":\"\u30EC\u30D9\u30EB\",\"value\":\"\u30EC\u30D9\u30EB
+    1\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SCHEDULE_LEVEL_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"74a9d550c90a39f439dcafd3a4293669\"},\"STRUCTURAL_FAMILY_CODE_NAME\":{\"name\":\"\u30B3\u30FC\u30C9\u540D\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"STRUCTURAL_FAMILY_CODE_NAME\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"db6d20c39206e0caf2a503845f1f172b\"},\"SYMBOL_FAMILY_NAME_PARAM\":{\"name\":\"\u30D5\u30A1\u30DF\u30EA\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_FAMILY_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"9e577d9bc29fd67c4399d3c95d1bc5ca\"},\"SYMBOL_ID_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7
+    ID\",\"value\":\"600 x 660mm\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_ID_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"80b0aaf159fc721d294eb050d5368979\"},\"SYMBOL_NAME_PARAM\":{\"name\":\"\u30BF\u30A4\u30D7\u540D\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"SYMBOL_NAME_PARAM\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"cf4ca00782d8b9fe70aecb31219644c4\"},\"UNIFORMAT_CODE\":{\"name\":\"\u30A2\u30BB\u30F3\u30D6\u30EA
+    \u30B3\u30FC\u30C9\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"UNIFORMAT_CODE\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"c36d24527808bc2f6715c4dedbc2f33f\"},\"UNIFORMAT_DESCRIPTION\":{\"name\":\"\u30A2\u30BB\u30F3\u30D6\u30EA\",\"value\":\"\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"UNIFORMAT_DESCRIPTION\",\"isShared\":false,\"isReadOnly\":true,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"10f3be495bdfe98539aa50417208aefa\"},\"WINDOW_TYPE_ID\":{\"name\":\"\u30DE\u30FC\u30AF(\u30BF\u30A4\u30D7)\",\"value\":null,\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"WINDOW_TYPE_ID\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":true,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"1c65d6954f4af810631609c78cd81cee\"},\"\u30DE\u30C6\u30EA\u30A2\u30EB\":{\"name\":\"\u30DE\u30C6\u30EA\u30A2\u30EB\",\"value\":\"\u5857\u88C5
+    - \u767D\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"\u30DE\u30C6\u30EA\u30A2\u30EB\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"a5aadeff08aca6fe788a03751edcbcaa\"},\"\u30E9\u30D9\u30EB\":{\"name\":\"\u30E9\u30D9\u30EB\",\"value\":\"\u53C2\u7167\",\"applicationUnitType\":null,\"applicationUnit\":null,\"applicationInternalName\":\"\u30E9\u30D9\u30EB\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":null,\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"578d923ef9ddafa295b67cecc19815b9\"},\"\u5965\u884C\u304D\":{\"name\":\"\u5965\u884C\u304D\",\"value\":660.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:millimeters-1.0.1\",\"applicationInternalName\":\"\u5965\u884C\u304D\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"1e7ecc1646b846395fea0e995ccae6fe\"},\"\u9AD8\u3055\":{\"name\":\"\u9AD8\u3055\",\"value\":1830.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:millimeters-1.0.1\",\"applicationInternalName\":\"\u9AD8\u3055\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"94e20a280e4042a91a074553d627a5bb\"},\"\u5E45\":{\"name\":\"\u5E45\",\"value\":600.0,\"applicationUnitType\":null,\"applicationUnit\":\"autodesk.unit.unit:millimeters-1.0.1\",\"applicationInternalName\":\"\u5E45\",\"isShared\":false,\"isReadOnly\":false,\"isTypeParameter\":false,\"units\":\"mm\",\"totalChildrenCount\":0,\"applicationId\":null,\"speckle_type\":\"Objects.BuiltElements.Revit.Parameter\",\"id\":\"69ac449f289f20c7fa9ebaaa9f1e5186\"},\"id\":\"ba0cbcbbbe9f189559b976ea3353b015\"},\"phaseCreated\":\"\u65B0\u3057\u3044\u5EFA\u8A2D\",\"isRevitLinkedModel\":false,\"worksetId\":\"0\",\"mirrored\":false,\"facingFlipped\":false,\"units\":\"mm\",\"id\":\"eb53390cff2af7120cf2567c53c76f78\"}"
+  _hasChanged: 0
+  _serializedSpeckleType: Objects.Other.Revit.RevitInstance, Objects, Version=2.18.3.14029,
+    Culture=neutral, PublicKeyToken=null
+--- !u!114 &6098955379244297910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b94240a6987a5e3458c657774ff1d6b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _DisplayName: 
+  _InteractionMarker: {fileID: 8647101594582346444}
+  _LookAtPoint: {fileID: 7417830304684481789}
+--- !u!114 &1752443141123579491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 000c97ffc8243a4418f3bd06cf746b7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _DisplayName: 
+  _InteractionType: 1
+  _Duration: 1
+  _StatChanges:
+  - LinkedStat: {fileID: 11400000, guid: a7e392434981d85438b220cd3b515336, type: 2}
+    Value: 0.3
+  _Outcomes:
+  - Description: 
+    Weighting: 1
+    StatMultiplier: 1
+    AbandonInteraction: 0
+    StatChanges: []
+    MemoriesCaused: []
+  MaxSimultaneousUsers: 1
+--- !u!208 &1768787480633506916
+NavMeshObstacle:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Shape: 1
+  m_Extents: {x: 0.3, y: 0.915, z: 0.35200003}
+  m_MoveThreshold: 0.1
+  m_Carve: 1
+  m_CarveOnlyStationary: 1
+  m_Center: {x: -0.054, y: 0.915, z: -0.056}
+  m_TimeToStationary: 0.5
+--- !u!114 &-8201208374394926138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0dc06e88ac326c4f8c2c6ef550cace2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LocalTargetManagerOnly: 0
+--- !u!65 &2031356750300408249
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.96372986, y: 1.83, z: 1.0019019}
+  m_Center: {x: -0.06021118, y: 0.915, z: -0.0105599165}
+--- !u!114 &3134382378531602883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcd64926e9f5fe540b200e3492584fb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!54 &596764779659513841
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462341512626772639}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

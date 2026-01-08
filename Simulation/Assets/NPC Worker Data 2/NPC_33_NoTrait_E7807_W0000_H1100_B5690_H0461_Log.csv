@@ -1,0 +1,32 @@
+﻿Timestamp,State,StatName,Location,Duration
+15:19:51.688,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (66),
+15:21:23.404,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (66),917.15
+15:21:23.417,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (81),
+15:21:42.702,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (81),192.84
+15:21:42.897,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (81),
+15:22:24.205,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (81),413.06
+15:22:24.390,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (61),
+15:24:18.954,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (61),1145.65
+15:24:19.145,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (61),
+15:24:57.329,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (61),381.85
+15:24:57.518,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (5),
+15:25:23.050,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (5),255.31
+15:25:23.065,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+15:25:35.895,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),128.30
+15:25:36.087,Start,AIStat_Energy,椅子-Corbu (3),
+15:25:44.751,End,AIStat_Energy,椅子-Corbu (3),86.65
+15:25:44.938,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (2),
+15:25:58.302,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (2),133.63
+15:25:58.499,Start,AIStat_Hunger,Lunch (9),
+15:26:12.756,End,AIStat_Hunger,Lunch (9),142.60
+15:26:12.952,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),
+15:26:29.388,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (1),164.36
+15:26:29.581,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (42),
+15:43:12.601,End,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (42),10030.20
+15:43:12.790,Start,AIStat_Energy,椅子-Corbu (3),
+15:43:22.867,End,AIStat_Energy,椅子-Corbu (3),100.77
+15:43:23.061,Start,AIStat_Hunger,Lunch,
+15:43:36.926,End,AIStat_Hunger,Lunch,138.65
+15:43:37.124,Start,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (3),
+15:43:50.722,End,AIStat_Bladder,衛生器具 - プライベート - 6.1 Lpf より大きいフラッシュ -- 7ed6c794b9f3900cc6cbea7e8c8f88d2 (3),136.00
+15:43:50.911,Start,AIStat_Work,オフィスチェア -- efbca5d6046312743e0c22ff05f8b18f (61),
